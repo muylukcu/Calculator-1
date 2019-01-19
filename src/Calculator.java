@@ -17,5 +17,5 @@ public class Calculator {
         double result = n1 / n2;
         return result;
     }
-    //LOCAL REPO: Comment 2
+     // this a comment in GITHUB 2
 }
